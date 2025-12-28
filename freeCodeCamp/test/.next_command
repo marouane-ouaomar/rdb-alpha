@@ -41,3 +41,7 @@ echo hello terminal
 pwd
 ls --color=auto
 cd freeCodeCamp
+cmd
+echo cmd
+print working directory
+pwd
