@@ -46,3 +46,4 @@ echo cmd
 print working directory
 pwd
 ls --color=auto
+cd test
